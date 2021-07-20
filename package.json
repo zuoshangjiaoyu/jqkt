@@ -11,7 +11,7 @@
     "prop-types": "^15.7.2",
     "query-string": "^6.5.0",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-general-actionsheet": "^1.0.3",
     "react-native-gesture-handler": "^1.2.1",
     "react-native-looped-carousel": "^0.1.13",
